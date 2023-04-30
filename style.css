@@ -1,0 +1,26 @@
+        /* estilo tabla de horarios*/
+.tabla{
+    background-color: rgb(136, 191, 241);
+}
+
+        .titulo-tabla{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;}
+    
+
+.dias{
+    font-size: 22px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color: rgb(209, 84, 11);}
+
+.hora{
+    font-style: italic;
+    color: rgb(209, 84, 11);}
+
+
+      /*estilo body*/
+body{ 
+    background-color:darkgrey
+}
